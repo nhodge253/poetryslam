@@ -40,5 +40,6 @@ My foe outstretched beneath the tree.
  
  <br>
  
-   _William Blake_     
+   _William Blake_   
+   ![William Blake](https://www.poets.org/sites/default/files/styles/286x289/public/images/biographies/wblake.jpg?itok=ZQxq5g4j)  
    http://www.shmoop.com/poison-tree/poem-text.html
